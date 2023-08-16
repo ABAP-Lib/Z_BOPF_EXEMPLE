@@ -1,0 +1,1 @@
+sap.ui.define(["sap/suite/ui/generic/template/lib/AppComponent"],function(e){return e.extend("jsg.zqmpp001.Component",{metadata:{manifest:"json"}})});                                                                                                         
